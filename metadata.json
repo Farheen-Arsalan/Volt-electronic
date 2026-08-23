@@ -1,0 +1,6 @@
+{
+  "name": "ABC Electronics",
+  "description": "Modern clean tech e-commerce front-end for ABC Electronics (Volt Tech) in Dubai featuring sticky navbar, product catalog, deals, cart drawer, and Dubai showroom info.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
